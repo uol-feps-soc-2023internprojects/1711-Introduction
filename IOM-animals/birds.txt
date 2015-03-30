@@ -1,0 +1,89 @@
+    Red-throated diver, Gavia stellata
+    Black-throated diver, Gavia arctica
+    Great northern diver, Gavia immer
+    Little grebe, Tachybaptus ruficollis
+    Slavonian grebe, Podiceps auritus
+    Storm petrel, Hydrobates pelagicus
+    Manx shearwater, Puffinus puffinus
+    Fulmar, Fulmarus glacialis
+    Gannet, Morus bassanus
+    Cormorant, Phalacrocorax carbo
+    Shag, Phalacrocorax aristotelis
+    Bittern, Botaurus stellaris
+    Grey heron, Ardea cinerea
+    Mute swan, Cygnus olor
+    Whooper swan, Cygnus cygnus
+    Pink-footed goose, Anser brachyrynchus
+    Greylag goose, Anser anser
+    Canada goose, Branta canadensis
+    Brent goose, Branta bernicla
+    Shelduck, Tadorna tadorna
+    Wigeon, Anas penelope
+    Gadwall, Anas strepera
+    Teal, Anas crecca
+    Mallard, Anus platyrhynchos
+    Shoveler, Anas clypeata
+    Pochard, Aythya ferina
+    Tufted duck, Aythya fuligula
+    Scaup, Aythya marila
+    Eider, Somateria mollissima
+    Long-tailed duck, Clangula hyemalis
+    Common scoter, Melanitta nigra
+    Velvet scoter, Melanitta fusca
+    Goldeneye, Bucephala clangula
+    Red-breasted merganser, Mergus serrator
+    Goosander, Mergus merganser
+    Ruddy duck, Oxyura jamaicensis
+    Sparrowhawk, Accipiter nisus
+    Hen harrier, Circus cyaneus
+    White-tailed eagle, Haliaeetus albicilla
+    Kestrel, Falco tinnunculus
+    Merlin, Falco columbarius
+    Peregrine, Falco peregrinus
+    Red-legged partridge, Alectoris rufa
+    Grey partridge, Perdix perdix
+    Quail, Coturnix coturnix
+    Black grouse, Tetrao tetrix†
+    Red grouse, Lagopus lagopus scoticus
+    Pheasant, Phasianus colchicus
+    Water rail, Rallus aquaticus
+    Corncrake, Crex crex
+    Coot, Fulica atra
+    Oystercatcher, Haematopus ostralegus
+    Curlew, Numenius arguata
+    Woodcock, Scolopax rusticola
+    Snipe, Gallinago gallinago
+    Herring gull, Larsus argentatus
+    Great black-backed gull, Larsus marinus
+    Puffin, Fratercula arctica
+    Razorbill, Alca torda
+    Woodpigeon, Columba palumbus
+    Collared dove, Streptopelia decaocto
+    Barn owl, Tyto alba
+    Swallow, Hirundo rustica
+    Grey wagtail, Motacilla cinerea
+    Pied wagtail, Motacilla alba yarrellii
+    Wren, Troglodytes troglodytes
+    Dunnock, Prunella modularis
+    Robin, Erithacus rubecula
+    Blackbird, Turdus merula
+    Song thrush, Turdus philomelos
+    Willow warbler, Phylloscopus trochilus
+    Goldcrest, Regulus regulus
+    Blue tit, Parus caeruleus
+    Great tit, Parus major
+    Coal tit, Parus ater
+    Long-tailed tit, Aegithalos caudatus
+    Starling, Sturnus vulgaris
+    Magpie, Pica pica
+    Jackdaw, Corvus monedula
+    Raven, Corvus corax
+    Carrion crow, Corvus corax
+    Hooded crow, Corvus cornix
+    Chough, Phyrocorrax phyrocorrax
+    Rook, Corvus frugilegus
+    House sparrow, Passer domesticus
+    Common chaffinch, Fringilla coelebs
+    Goldfinch, Carduelis chloris
+    Greenfinch, Carduelis chloris
+    Corn bunting, Miliaria calandra

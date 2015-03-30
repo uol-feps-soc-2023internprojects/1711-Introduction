@@ -1,0 +1,23 @@
+    Common pipistrelle, Pipistrellus pipistrellus
+    Whiskered bat, Myotis mystacinus
+    Natterer's bat, Myotis nattereri
+    Daubenton's bat, Myotis daubentonii
+    Leisler's bat, Nyctalus leisleri
+    Soprano pipistrelle, Pipistrellus pygmaeus
+    Brown long-eared bat, Plecotus auritus
+    Mountain hare, Lepus timidus
+    European hare, Lepus europaeus
+    European rabbit, Oryctolagus cuniculus
+    European hedgehog, Erinaceus europaeus
+    Pygmy shrew, Sorex minutus
+    Wood mouse, Apodemus sylvaticus
+    House mouse, Mus domesticus
+    Brown rat, Rattus norvegicus
+    Stoat, Mustela erminea hibernica
+    Ferret, Mustela furo
+    Irish elk, Megaloceros giganteus
+    Grey seal, Halichoerus grypus
+    Common seal, Phoca vitulina
+    Human, Homo sapiens
+    Domestic goat, Capra hircus
+    Red-necked wallaby, Macropus rufogriseus
