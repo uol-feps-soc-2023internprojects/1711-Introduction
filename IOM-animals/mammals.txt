@@ -1,23 +1,23 @@
-    Common pipistrelle, Pipistrellus pipistrellus
-    Whiskered bat, Myotis mystacinus
-    Natterer's bat, Myotis nattereri
-    Daubenton's bat, Myotis daubentonii
-    Leisler's bat, Nyctalus leisleri
-    Soprano pipistrelle, Pipistrellus pygmaeus
-    Brown long-eared bat, Plecotus auritus
-    Mountain hare, Lepus timidus
-    European hare, Lepus europaeus
-    European rabbit, Oryctolagus cuniculus
-    European hedgehog, Erinaceus europaeus
-    Pygmy shrew, Sorex minutus
-    Wood mouse, Apodemus sylvaticus
-    House mouse, Mus domesticus
-    Brown rat, Rattus norvegicus
-    Stoat, Mustela erminea hibernica
-    Ferret, Mustela furo
-    Irish elk, Megaloceros giganteus
-    Grey seal, Halichoerus grypus
-    Common seal, Phoca vitulina
-    Human, Homo sapiens
-    Domestic goat, Capra hircus
-    Red-necked wallaby, Macropus rufogriseus
+    common pipistrelle, pipistrellus pipistrellus
+    whiskered bat, myotis mystacinus
+    natterer's bat, myotis nattereri
+    daubenton's bat, myotis daubentonii
+    leisler's bat, nyctalus leisleri
+    soprano pipistrelle, pipistrellus pygmaeus
+    brown long-eared bat, plecotus auritus
+    mountain hare, lepus timidus
+    european hare, lepus europaeus
+    european rabbit, oryctolagus cuniculus
+    european hedgehog, erinaceus europaeus
+    pygmy shrew, sorex minutus
+    wood mouse, apodemus sylvaticus
+    house mouse, mus domesticus
+    brown rat, rattus norvegicus
+    stoat, mustela erminea hibernica
+    ferret, mustela furo
+    irish elk, megaloceros giganteus
+    grey seal, halichoerus grypus
+    common seal, phoca vitulina
+    human, homo sapiens
+    domestic goat, capra hircus
+    red-necked wallaby, macropus rufogriseus

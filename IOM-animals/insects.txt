@@ -1,92 +1,92 @@
-    Chrysops vulgaris
-    Chrysops ventralis
-    Hemerobius lutescens
-    Micromus veriegatus
-    Limnophilus auricula
-    Limnophilus flavicornis
-    Limnophilus elegans
-    Common hawker, Aeshna juncea
-    Brown hawker, Aeshna grandis
-    Migrant hawker, Aeshna mixta
-    Common darter, Sympetrum striolatum
-    Black darter, Sympetrum danae
-    Red-veined darter, Sympetrum fonscolombi
-    Ruddy darter, Sympetrum sanguineum
-    Four-spotted chaser, Libellula quadrimaculata
-    Downy emerald, Cordulia aenea
-    Keeled skimmer, Orthetrum coerulescens
-    Emperor dragonfly, Anax imperator
-    Common blue damselfly, Enallagma cyathigerum
-    Blue-tailed damselfly, Ischnura elegans
-    Golden-ringed dragonfly, Cordulegaster boltonii
-    Large red damselfly, Pyrrhosoma nymphula
-    Emerald damselfly, Lestes sponsa
-    Dark bush-cricket, Pholidoptera griseoaptera
-    Speckled bush-cricket, Leptophyes punctatissima
-    Lesser mottled grasshopper, Stenobothrus stigmaticus
-    Common green grasshopper, Omocestus viridulus
-    Common earwig, Forficula auricularia
-    Bibio marci
-    Bibio reticulatus
-    Bombylius canescens
-    Bombylius minor, heath bee-fly
-    Calliphora vomitoria
-    Cheilosia rosarum
-    Machimus cowini, Manx robber fly
-    Agrothereutes abbreviata
-    Andrena clarkella
-    Andrena denticulata
-    Andrena labilis
-    Bombus agrorum
-    Bombus lucorum
-    Bombus muscorum
-    Crabo cribarius
-    Dolerus liogaster
-    Dolerus cothurnatus
-    Halictus calceatus
-    Lissonata bellator
-    Myrmica ruginodis
-    Parabates cristatus
-    Pontania viminalis
-    Psythyrus campestris
-    Spilichneumon occisorius
-    Trichoma enecator
-    Large white, Pieris brassicae
-    Small white, Pieris rapae
-    Green-veined white, Pieris napi
-    Orange tip, Anthocharis cardamines
-    Small copper, Lycaena phlaeas
-    Common blue, Polyommatus icarus
-    Holly blue, Celastrina argiolus
-    Grayling, Hipparchia semele
-    Speckled wood, Pararge aegeria[1]
-    Meadow brown, Maniola jurtina
-    Wall, Lasiommata megera
-    Small heath, Coenonympha pamphilus
-    Dark green fritillary, Argynnis aglaja
-    Red admiral, Vanessa atalanta
-    Small tortoiseshell, Aglais urticae
-    Peacock, Inachis io
-    Comma, Polygonia c-album[1]
-    Painted lady, Cynthia cardui
-    Ringlet, Aphantopus hyperantus†
-    Cinnabar moth, Tyria jacobaeae
-    Peppered moth, Biston betularia
-    Garden carpet, Xanthorhoe fluctuata
-    Silver ground carpet, Xanthorhoe montanata montanata
-    Elephant hawkmoth, Deilephila elpenor
-    Death's head hawkmoth, Acherontia atropos
-    Puss moth, Cerura vinula
-    Silver Y, Autographa gamma f. gammina
-    Ingrailed clay, Diarsia mendica mendica
-    Acanthosoma haemorrhoidale (Hawthorn shield bug)
-    Capsus meriopterus (a broom myrid)
-    Corixa praeusta (a water boatman)
-    Herris lacustris (common pondskater)
-    Hydrometra stagnorum (water-measurer)
-    Myzus cerasi
-    Peizodorus lituratus
-    Plagiognathus arbustorum
-    Sybsigara fossarum
-    Subsigara scotti
-    Velua currens
+    chrysops vulgaris
+    chrysops ventralis
+    hemerobius lutescens
+    micromus veriegatus
+    limnophilus auricula
+    limnophilus flavicornis
+    limnophilus elegans
+    common hawker, aeshna juncea
+    brown hawker, aeshna grandis
+    migrant hawker, aeshna mixta
+    common darter, sympetrum striolatum
+    black darter, sympetrum danae
+    red-veined darter, sympetrum fonscolombi
+    ruddy darter, sympetrum sanguineum
+    four-spotted chaser, libellula quadrimaculata
+    downy emerald, cordulia aenea
+    keeled skimmer, orthetrum coerulescens
+    emperor dragonfly, anax imperator
+    common blue damselfly, enallagma cyathigerum
+    blue-tailed damselfly, ischnura elegans
+    golden-ringed dragonfly, cordulegaster boltonii
+    large red damselfly, pyrrhosoma nymphula
+    emerald damselfly, lestes sponsa
+    dark bush-cricket, pholidoptera griseoaptera
+    speckled bush-cricket, leptophyes punctatissima
+    lesser mottled grasshopper, stenobothrus stigmaticus
+    common green grasshopper, omocestus viridulus
+    common earwig, forficula auricularia
+    bibio marci
+    bibio reticulatus
+    bombylius canescens
+    bombylius minor, heath bee-fly
+    calliphora vomitoria
+    cheilosia rosarum
+    machimus cowini, manx robber fly
+    agrothereutes abbreviata
+    andrena clarkella
+    andrena denticulata
+    andrena labilis
+    bombus agrorum
+    bombus lucorum
+    bombus muscorum
+    crabo cribarius
+    dolerus liogaster
+    dolerus cothurnatus
+    halictus calceatus
+    lissonata bellator
+    myrmica ruginodis
+    parabates cristatus
+    pontania viminalis
+    psythyrus campestris
+    spilichneumon occisorius
+    trichoma enecator
+    large white, pieris brassicae
+    small white, pieris rapae
+    green-veined white, pieris napi
+    orange tip, anthocharis cardamines
+    small copper, lycaena phlaeas
+    common blue, polyommatus icarus
+    holly blue, celastrina argiolus
+    grayling, hipparchia semele
+    speckled wood, pararge aegeria[1]
+    meadow brown, maniola jurtina
+    wall, lasiommata megera
+    small heath, coenonympha pamphilus
+    dark green fritillary, argynnis aglaja
+    red admiral, vanessa atalanta
+    small tortoiseshell, aglais urticae
+    peacock, inachis io
+    comma, polygonia c-album[1]
+    painted lady, cynthia cardui
+    ringlet, aphantopus hyperantus†
+    cinnabar moth, tyria jacobaeae
+    peppered moth, biston betularia
+    garden carpet, xanthorhoe fluctuata
+    silver ground carpet, xanthorhoe montanata montanata
+    elephant hawkmoth, deilephila elpenor
+    death's head hawkmoth, acherontia atropos
+    puss moth, cerura vinula
+    silver y, autographa gamma f. gammina
+    ingrailed clay, diarsia mendica mendica
+    acanthosoma haemorrhoidale (hawthorn shield bug)
+    capsus meriopterus (a broom myrid)
+    corixa praeusta (a water boatman)
+    herris lacustris (common pondskater)
+    hydrometra stagnorum (water-measurer)
+    myzus cerasi
+    peizodorus lituratus
+    plagiognathus arbustorum
+    sybsigara fossarum
+    subsigara scotti
+    velua currens
